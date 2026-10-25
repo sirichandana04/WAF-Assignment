@@ -2,3 +2,4 @@ Student Information Management System
 Git and GitHub Workflow Demonstration
 Operation: File created after cloning
 Operation: Branching and merging demonstration
+Operation: Pull changes from GitHub
